@@ -1,7 +1,7 @@
 [
     {
         "footer": {
-            "text": "Character Guide | Build: Endmin"
+            "text": "Character Guide | Build: Endmin | Update Date: 3/26/26 | Editor: wolfieeeeeeee"
         },
         "fields": [
             {
@@ -33,6 +33,11 @@
                 "inline": false,
                 "name": "Talent Priority:",
                 "value": "1) Unknown\n2) Unknown\n3) Unknown\n4) Unknown"
+            },
+            {
+                "inline": false,
+                "name": "Notes:",
+                "value": "Test"
             }
         ],
         "type": "rich",
