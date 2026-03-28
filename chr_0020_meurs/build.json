@@ -1,0 +1,41 @@
+[
+    {
+        "footer": {
+            "text": "Character Guide | Build: Catcher"
+        },
+        "fields": [
+            {
+                "inline": true,
+                "name": "Best Weapon(s):",
+                "value": "Unknown"
+            },
+            {
+                "inline": true,
+                "name": "Secondary Weapon(s):",
+                "value": "Unknown"
+            },
+            {
+                "inline": false,
+                "name": "Best Gear Set:",
+                "value": "Unknown"
+            },
+            {
+                "inline": false,
+                "name": "Second Best Gear Set:",
+                "value": "Unknown"
+            },
+            {
+                "inline": false,
+                "name": "Third Best Gear Set:",
+                "value": "Unknown"
+            },
+            {
+                "inline": false,
+                "name": "Talent Priority:",
+                "value": "1) Unknown\n2) Unknown\n3) Unknown\n4) Unknown"
+            }
+        ],
+        "type": "rich",
+        "title": "Catcher (WIP Build) | Build"
+    }
+]
